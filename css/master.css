@@ -9,10 +9,6 @@
   margin-top: 100px;
 }
 
-.grey h1{
-  margin-bottom: 30px;
-}
-
 h3,img{
   margin-bottom: 40px;
 }
@@ -27,6 +23,9 @@ header{
 }
 
 /* regole main ultima parte */
+.grey h1{
+  margin-bottom: 30px;
+}
 
 hr{
   width: 70%;
