@@ -1,0 +1,16 @@
+/* regole generali */
+
+img{
+  height: 200px;
+}
+
+.container.fluid{
+  text-align: center;
+}
+
+.grey{
+  background-color: #f9f9f9;
+  /* regole debug */
+  min-height: 400px;
+  margin-bottom: 100px;
+}
